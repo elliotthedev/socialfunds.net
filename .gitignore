@@ -1,4 +1,4 @@
-root/.vscode/ftp-sync.json
-root/js/main.js
-root/mobile/js/main.js
-root/socialfunds.code-workspace
+.vscode/ftp-sync.json
+js/main.js
+mobile/js/main.js
+socialfunds.code-workspace
